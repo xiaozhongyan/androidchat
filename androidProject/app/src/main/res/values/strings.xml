@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Chatrobot</string>
+    <string name="title_name">YuanbaoRobotchat</string>
+
+    <string name="serverIP">serverIP:</string>
+    <string name="IPEdit_text">cloud.anychat.cn</string>
+
+    <string name="serverPort">serverPort:</string>
+    <string name="portEdit_text">8906</string>
+
+    <string name="roomID">RoomID:</string>
+    <string name="roomID_EditText">34</string>
+
+    <string name="UserName">UserName:</string>
+    <string name="userNameEdit">demo</string>
+
+    <string name="Password">PassWord:</string>
+    <string name="passWordEdit">password</string>
+
+    <string name="loginBut">login</string>
+    <string name="logoutBut">logout</string>
+    <string name="video_config">config</string>
+
+    <string name="end_CallBut">C</string>
+    <string name="transmitMsgDes">transMit_Msg</string>
+    <string name="transmitMsg">transMit_Msg</string>
+    <string name="upBut">UP</string>
+    <string name="downBut">DOWN</string>
+    <string name="rightBut">right</string>
+    <string name="leftBut">left</string>
+    <string name="s_D">s_Des_m</string>
+    <string name="video_showBut">video_show_but</string>
+    <string name="sendMsgBut">T</string>
+    <string name="RobotState">S</string>
+
+    <string name="enable_P2P_Box">enable_P2P</string>
+    <string name="enable_overloy_Box">enable_overLay</string>
+    <string name="enable_video_rotate_box">enable_video_rotate</string>
+    <string name="enable_video_auto_rotate">enable_auto_rotate</string>
+    <string name="enable_fix_color_deviation_box">enable_fix_color</string>
+    <string name="enable_GPU_render_box">enable_GPU_render</string>
+    <string name="enable_use_armv6_box">enable_use_armV6</string>
+    <string name="enable_use_AEC_box">enable_use_AEC</string>
+    <string name="enable_use_Hard_ware_codec_box">enable_use_hardware_code(restart)</string>
+
+    <string name="save_video_config">save</string>
+    <string name="configMode">config_mode:</string>
+    <string name="server_config">server_cfg</string>
+    <string name="customer_config">customer_cfg</string>
+
+    <string name="Select_resolution">resolution:</string>
+    <string name="Select_video_bitrate">video_bitrate</string>
+    <string name="Select_video_FPS">video_FPS</string>
+    <string name="Select_video_Quality">video_Quality</string>
+    <string name="Select_video_pre_prameter">pre_premeter</string>
+
+
+</resources>
